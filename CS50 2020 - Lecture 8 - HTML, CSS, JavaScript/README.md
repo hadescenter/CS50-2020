@@ -15,5 +15,5 @@
     - **IP**
         - Adalah singkatan dari Internet Protokol,protokol yang didukung oleh perangkat lunak komputer modern,yang mencakup cara standar komputer untuk saling berhubungan.**Alamat IP** adalah **alamat** unik untuk komputer yang terhubung ke internet,sehingga paket yang dikirim dari satu komputer ke komputer lainnya akan diteruskan melalui router hingga mencapai tujuanya.
             - Router memiliki,dalam memorinya,tabel yang memetakan alamat IP ke kabel yang masing-masing terhubung ke router lain,sehingga meraka tahu ke mana harus meneruskan paket.Ternyata ada protokol untuk router untuk berkomunkasi dan mencari tahu jalur ini juga.
-    - **DNS*
+    - **DNS**
         - Domain Name System, adalah teknologi lain yang menerjemahkan nama domain seperti google.com menjadi alamat IP.DNS umumnya disediakan sebagai layanan oleh penyedia layanan internet terdekat, atau ISP **(Internet Service Provider)**. 
