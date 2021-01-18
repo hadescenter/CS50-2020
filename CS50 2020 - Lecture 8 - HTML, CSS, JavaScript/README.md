@@ -1,6 +1,7 @@
 # CS50-2020
 - Link Pembelajaran
     - https://cs50.harvard.edu/x/2021/weeks/8/
+    - https://www.youtube.com/watch?v=5g0x2xv3aHU
 
 # Kuliah 8
 ## Internet
